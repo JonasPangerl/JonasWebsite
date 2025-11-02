@@ -18,6 +18,7 @@
 ---
 
 ## Boundary Layer Meshing Tool
+See: [Boundary Layer Mesh Helper](boundary_layer_tool.md).
 ### V01.01 - April 2023
 - **Executable** - [Download](downloads/BLMeshingTool/BLmeshingSetupTool_V01.01.zip)
 
