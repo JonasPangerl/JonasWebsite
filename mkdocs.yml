@@ -1,11 +1,34 @@
-site_name: Jonas Files
+site_name: Jonas Pangerl
 theme:
   name: material
+  font:
+    text: Inter
+    code: "Fira Code"
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
   features:
-    - navigation.expand
     - navigation.top
+    - navigation.expand
     - search.suggest
     - content.code.copy
+extra:
+  font:
+    text: Inter
+    code: Fira Code
+
 nav:
   - Start: index.md
+  - Boundary Layer Tool: boundary_layer_tool.md
   - Downloads: downloads.md

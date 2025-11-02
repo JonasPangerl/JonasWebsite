@@ -1,0 +1,19 @@
+# builds & site output
+build/
+dist/
+site/
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# misc
+.DS_Store
+Thumbs.db
