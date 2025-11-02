@@ -1,0 +1,11 @@
+site_name: Jonas Files
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+nav:
+  - Start: index.md
+  - Downloads: downloads.md
