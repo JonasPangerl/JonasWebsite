@@ -30,5 +30,6 @@ extra:
 
 nav:
   - Start: index.md
+  - Journey to F1: journey-to-f1.md
   - Boundary Layer Tool: boundary_layer_tool.md
   - Downloads: downloads.md

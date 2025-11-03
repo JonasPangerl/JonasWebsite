@@ -23,3 +23,23 @@ See: [Boundary Layer Mesh Helper](boundary_layer_tool.md).
 - **Executable** - [Download](downloads/BLMeshingTool/BLmeshingSetupTool_V01.01.zip)
 
 ---
+
+## Some CAD work from Uni
+Do not judge me on that, the CAD is not my best work :) I did it before joining Formula Student without any knowledge of CAD.
+Maybe it will still be useful for someone.
+
+Have a look here as well for some images before downloading: <https://grabcad.com/jonas.pangerl-1/models>
+
+### F1 Style FW 2017 - Inspired by RedBull
+- **.stp** - [Download](downloads/step-files/fw2017.stp)
+### F1 Style FW 2018
+- **.stp** - [Download](downloads/step-files/fw2018.stp)
+### F1 Style RW 2017 - Inspired by RedBull
+- **.stp** - [Download](downloads/step-files/rw2017.stp)
+### F1 Style RW 2018
+- **.stp** - [Download](downloads/step-files/rw2018.stp)
+### Formula Student Syle Front Wings
+- V1 **.stp** - [Download](downloads/step-files/FS_Front_Wing_V1.stp)
+- V2 **.stp** - [Download](downloads/step-files/FS_Front_Wing_V1.stp)
+
+---
