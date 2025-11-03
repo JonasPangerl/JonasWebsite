@@ -1,0 +1,11 @@
+.hero-split {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 24px;
+  align-items: start;
+}
+.hero-split figure { margin: 0; }
+.hero-split img { display: block; border-radius: 8px; max-width: 240px; height: auto; }
+@media (max-width: 780px) {
+  .hero-split { grid-template-columns: 1fr; }
+}

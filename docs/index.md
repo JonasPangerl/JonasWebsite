@@ -1,8 +1,16 @@
 # Jonas Pangerl
 
-**CFD Engineer in Formula 1** at **Audi F1 Team**.  
-Previously **3 years at Williams Racing** as an Aerodynamicist in aero development.  
-Before that, **4 years in Formula Student** focusing on Aerodynamics.
+<div class="hero-split">
+  <div>
+    <p><strong>CFD Engineer in Formula 1</strong> at <strong>Audi F1 Team</strong>,</p>
+    <p>Previously 3 years at Williams Racing as an Aerodynamicist in aero development,</p>
+    <p>Before that, 4 years in Formula Student focusing on Aerodynamics.</p>
+  </div>
+
+  <figure>
+    <img src="index/images/JP.jpeg" alt="Jonas" width="180">
+  </figure>
+</div>
 
 ---
 
