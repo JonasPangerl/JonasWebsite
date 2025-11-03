@@ -28,12 +28,12 @@ At **FS Spain 2019**, a judge from **Williams Racing** noticed my work in the **
 I wrote my **Master’s thesis** in the **CFD** group at Williams, focusing on **high fidelity simulations** of a **Formula One wing and wheel configuration** in **OpenFOAM**, mostly **LES** and **DES**, at very high resolution (quasi DNS). I compared modelling approaches, conducted studies, and produced a dataset that Williams could reuse internally for further projects.
 
 ## Williams, aero work
-After the thesis I stayed at Williams in the **aerodynamics department**, as an aerodynamicist working on the floor. This deepened my understanding of development cycles, WT testing, correlation and robust workflow design.
+After the thesis, I stayed at Williams in the **aerodynamics department**, as an aerodynamicist working on the floor. This deepened my understanding of development cycles, WT testing, correlation and robust workflow design.
 
 ## Move to Switzerland, CFD correlation
 After three years at Williams I moved to **Sauber** (now AudiF1) in Switzerland and shifted my path towards **CFD**.
-I now work in **CFD correlation team**, which fits my strengths from aero development and my thesis work.
-It is varied and challenging, and there is still a lot to learn as CFD evolves.
+I now work in the **CFD correlation team**, which fits my strengths from aero development and my thesis work.
+It is varied and challenging, and there is still a lot to learn from my colleagues and the people in the CFD methodology team.
 
 ## What helped most
 * Fundamentals, fluid mechanics, numerics, and data analysis  
