@@ -27,6 +27,9 @@ extra:
   font:
     text: Inter
     code: Fira Code
+markdown_extensions:
+  - attr_list
+  - md_in_html
 
 nav:
   - Start: index.md

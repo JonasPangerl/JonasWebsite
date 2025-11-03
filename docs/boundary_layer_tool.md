@@ -1,4 +1,7 @@
-# Boundary Layer Mesh Helper
+# Boundary Layer Meshing Setup Tool
+<figure>
+  <img src="images/boundary_layer_tool/splash.jpg" alt="BL schematic" width="800">
+</figure>
 
 *A lightweight tool to design boundary-layer (BL) meshes quickly and scientifically, before you spend time on full meshing runs.*
 
@@ -7,6 +10,11 @@
 ## What it is
 This **Python-based desktop app** helps you determine **optimal boundary-layer mesh parameters** in minutes.  
 It visualizes and computes all relevant near-wall settings **in real time**, so you can pick robust values without waiting for a full meshing job.
+
+<figure>
+  <img src="images/boundary_layer_tool/gui-overview.jpg" alt="GUI Overview" width="800">
+  <figcaption>GUI overview</figcaption>
+</figure>
 
 - Works great alongside **OpenFOAM** and **STAR-CCM+** (and similar tools).
 - Focuses on **external freestream flows** with Reynolds numbers ~**10⁴–10⁷**.
@@ -52,6 +60,9 @@ The output parameters can be plugged into **STAR-CCM+**, **OpenFOAM**, **ANSYS**
 ---
 
 ## Parameters at a glance
+<figure>
+  <img src="images/boundary_layer_tool/mesh-parameters.jpg" alt="Mesh Parameters" width="800">
+</figure>
 
 | Parameter | Meaning / Use |
 |---|---|

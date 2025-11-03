@@ -30,6 +30,14 @@ Maybe it will still be useful for someone.
 
 Have a look here as well for some images before downloading: <https://grabcad.com/jonas.pangerl-1/models>
 
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;">
+  <img src="images/wings/fwf12017.png" alt="FW 2017" />
+  <img src="images/wings/rwf12017.png" alt="RW 2017" />
+  <figcaption>FW F1 2017</figcaption>
+  <figcaption>RW F1 2017</figcaption>
+</div>
+
 ### F1 Style FW 2017 - Inspired by RedBull
 - **.stp** - [Download](downloads/step-files/fw2017.stp)
 ### F1 Style FW 2018

@@ -2,6 +2,30 @@
 
 This page summarizes how I moved from curiosity about aerodynamics to working in Formula 1.
 
+<div style="
+  display:grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap:2px;
+  align-items:start;
+">
+  <figure style="margin:0; text-align:center;">
+    <img src="images/Rennstall.png" alt="Rennstall Esslingen" style="width:100%; height:auto;">
+    <figcaption style="margin-top:2px; font-size:0.9rem;">Rennstall Esslingen</figcaption>
+  </figure>
+
+  <figure style="margin:0; text-align:center;">
+    <img src="images/Williams.png" alt="Williams Racing" style="width:100%; height:auto;">
+    <figcaption style="margin-top:2px; font-size:0.9rem;">Williams Racing</figcaption>
+  </figure>
+
+  <figure style="margin:0; text-align:center;">
+    <img src="images/Sauber.png" alt="Kick Sauber" style="width:100%; height:auto;">
+    <figcaption style="margin-top:2px; font-size:0.9rem;">Kick Sauber</figcaption>
+  </figure>
+</div>
+
+
+
 ## Early interests
 I was always fascinated by aerodynamics, aircraft and race cars inspired me early on.
 I first considered studying aerospace engineering, it felt a bit too narrow for me, so I chose a broader path with more future options.
