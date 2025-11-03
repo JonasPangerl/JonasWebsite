@@ -46,6 +46,8 @@
       
     
     
+      <link rel="stylesheet" href="../styles/extra.css">
+    
     <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -72,7 +74,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#boundary-layer-mesh-helper" class="md-skip">
+        <a href="#boundary-layer-meshing-setup-tool" class="md-skip">
           Skip to content
         </a>
       
@@ -559,12 +561,21 @@
 
 
 
-<h1 id="boundary-layer-mesh-helper">Boundary Layer Mesh Helper</h1>
+<h1 id="boundary-layer-meshing-setup-tool">Boundary Layer Meshing Setup Tool</h1>
+<figure>
+  <img src="images/boundary_layer_tool/splash.jpg" alt="BL schematic" width="800">
+</figure>
+
 <p><em>A lightweight tool to design boundary-layer (BL) meshes quickly and scientifically, before you spend time on full meshing runs.</em></p>
 <hr />
 <h2 id="what-it-is">What it is</h2>
 <p>This <strong>Python-based desktop app</strong> helps you determine <strong>optimal boundary-layer mesh parameters</strong> in minutes.<br />
 It visualizes and computes all relevant near-wall settings <strong>in real time</strong>, so you can pick robust values without waiting for a full meshing job.</p>
+<figure>
+  <img src="images/boundary_layer_tool/gui-overview.jpg" alt="GUI Overview" width="800">
+  <figcaption>GUI overview</figcaption>
+</figure>
+
 <ul>
 <li>Works great alongside <strong>OpenFOAM</strong> and <strong>STAR-CCM+</strong> (and similar tools).</li>
 <li>Focuses on <strong>external freestream flows</strong> with Reynolds numbers ~<strong>10⁴–10⁷</strong>.</li>
@@ -605,6 +616,10 @@ A new and more stable version will be released soon.</p>
 </ol>
 <hr />
 <h2 id="parameters-at-a-glance">Parameters at a glance</h2>
+<figure>
+  <img src="images/boundary_layer_tool/mesh-parameters.jpg" alt="Mesh Parameters" width="800">
+</figure>
+
 <table>
 <thead>
 <tr>
