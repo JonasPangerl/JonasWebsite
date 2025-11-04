@@ -24,7 +24,7 @@ See: [Boundary Layer Mesh Helper](boundary_layer_tool.md).
 
 ---
 
-## Some CAD work from Uni
+## Some CAD work
 Do not judge me on that, the CAD is not my best work :) I did it before joining Formula Student without any knowledge of CAD.
 Maybe it will still be useful for someone.
 

@@ -2,20 +2,21 @@
 
 <div class="hero-split">
   <div>
-    <p><strong>CFD Engineer in Formula 1</strong> at <strong>Audi F1 Team</strong>,</p>
-    <p>Previously 3 years at Williams Racing as an Aerodynamicist in aero development,</p>
+    <p><strong>CFD Engineer in Formula 1</strong> at the <strong>Audi F1 Team</strong>,</p>
+    <p>Previously 3 years at Williams Racing as an Aerodynamicist,</p>
     <p>Before that, 4 years in Formula Student focusing on Aerodynamics.</p>
   </div>
 
   <figure>
-    <img src="index/images/JP.jpeg" alt="Jonas" width="180">
+    <img src="index/images/FSS2024.jpeg" alt="Jonas" width="200">
   </figure>
 </div>
 
 ---
 
 ## About this site
-This is my personal website to share resources, notes, and tools, mainly for the **Formula Student** community. You will find talk materials, small utilities, and references that can help with aero and CFD workflows.
+This is my personal website to share resources, notes, and tools, mainly for the **Formula Student** community.
+You will find talk materials, small utilities, and references that can help with aero and CFD workflows.
 
 ---
 
@@ -55,7 +56,18 @@ If you need short term help, a code review, or a small tool built around your da
 ---
 
 ## Giving back to Formula Student
-I am very grateful for my Formula Student time, I learned a lot there, and I want to pass this knowledge on to students, so that you can follow a similar path or take as much as possible from Formula Student. Supporting the community is important to me, and I am happy to help where I can.
+<div class="hero-split">
+  <div>
+    I am very grateful for my Formula Student time, I learned a lot there, and I want to pass this knowledge on to students,
+    so that you can follow a similar path or take as much as possible from Formula Student.
+    Supporting the community is important to me, and I am happy to help where I can.
+  </div>
+
+  <figure>
+    <img src="index/images/FSG_Design.jpeg" alt="Jonas" width="200">
+  </figure>
+</div>
+
 
 ---
 
