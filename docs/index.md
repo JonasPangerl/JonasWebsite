@@ -24,15 +24,18 @@ You will find talk materials, small utilities, and references that can help with
 - **My path to F1**  
   How I got into Formula 1, [Journey to F1](journey-to-f1.md).
 
+- **Inside an F1 Aero Department**  
+  How an F1 aero department is structured, which sub departments exist and what they do, 
+  how they interact, and which skills help you find your place.
+  The purpose is to give you an idea of how it looks if your goal is to work in F1 aero: 
+  [Inside an F1 Aero Department](f1-aero/index.md).
+
 - **Talks and Presentations**  
-  Slide decks and supporting material for quick download after events.
+  Slide decks and supporting material for quick download after events: [Downloads](downloads.md)
 
 - **Tools and Utilities**  
   A small **2D boundary layer meshing setup tool** for CFD, it computes BL mesh setup parameters and visualizes them so you can plug them into your meshing workflow,  
   [Boundary Layer Mesh Helper](boundary_layer_tool.md).
-
-- **Quick Links and References**  
-  Curated links I often share with students and colleagues.
 
 ---
 
