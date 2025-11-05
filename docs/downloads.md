@@ -5,8 +5,8 @@
 ## Presentation FS Symposium 2022
 ### Aerodynamics in F1 and Formula Student
 
-- **Slide deck (PDF)** — to be uploaded
-- **Slide deck (PPTX)** — to be uploaded
+- **Slide deck (PDF)** — [View](downloads/FSSymposium2022/FS-Symposium-Aero-Jonas_final_removedF1Content.pdf) or [Download](downloads/FSSymposium2022/FS-Symposium-Aero-Jonas_final_removedF1Content.pdf)
+- **Slide deck (PPTX)** — [Download](downloads/FSSymposium2022/FS-Symposium-Aero-Jonas_final_removedF1Content.pptx)
 
 ---
 
