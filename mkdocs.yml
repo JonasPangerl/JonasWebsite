@@ -23,6 +23,9 @@ theme:
     - navigation.expand
     - search.suggest
     - content.code.copy
+    - navigation.expand
+    - navigation.indexes
+    - content.code.copy
 extra:
   font:
     text: Inter
@@ -34,7 +37,16 @@ extra_css:
   - styles/extra.css
 
 nav:
-  - Start: index.md
-  - Journey to F1: journey-to-f1.md
+  - Home: index.md
   - Boundary Layer Tool: boundary_layer_tool.md
+  - Journey to F1: journey-to-f1.md
+  - Inside an F1 Aero Department:
+      - f1-aero/index.md
+      - Wind Tunnel Testing: f1-aero/wt-testing.md
+      - CFD: f1-aero/cfd.md
+      - Aerodynamicists: f1-aero/aerodynamicists.md
+      - Surfacers: f1-aero/surfacers.md
+      - Model Design: f1-aero/model-design.md
+      - Aero Performance: f1-aero/aero-performance.md
+      - Software: f1-aero/software.md
   - Downloads: downloads.md
