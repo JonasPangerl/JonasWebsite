@@ -50,4 +50,5 @@ nav:
       - CFD: f1-aero/cfd.md
       - Software: f1-aero/software.md
       - Aero Performance: f1-aero/aero-performance.md
+  - Resources: resources.md
   - Downloads: downloads.md
