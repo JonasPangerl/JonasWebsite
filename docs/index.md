@@ -33,6 +33,9 @@ You will find talk materials, small utilities, and references that can help with
 - **Talks and Presentations**  
   Slide decks and supporting material for quick download after events: [Downloads](downloads.md)
 
+- **Free Resources**  
+  A list of free resources for CFD, Aero, and Formula Student: [Resources](resources.md).
+
 - **Tools and Utilities**  
   A small **2D boundary layer meshing setup tool** for CFD, it computes BL mesh setup parameters and visualizes them so you can plug them into your meshing workflow,  
   [Boundary Layer Mesh Helper](boundary_layer_tool.md).
