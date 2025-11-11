@@ -10,17 +10,17 @@ If you know a great **free** resource, please send it to me so I can review it a
 
 ### KYLE.ENGINEERS
 - former F1 Aerodynamicist at Mercedes-AMG, great videos on race car aerodynamics and analysis of cars.  
-  Link: <https://www.youtube.com/@KYLEENGINEERS>
+- Link: <https://www.youtube.com/@KYLEENGINEERS>
 
 ### William Toet
 - former F1 Aerodynamicist at Ferrari, Honda and Head of Aero at Sauber.  
-  Link Postprocessing: <https://www.racetechmag.com/2019/02/willem-toet-explains-cfd-post-processing/>  
-  Link Masterclass Aero: <https://www.youtube.com/watch?v=kixMMfEQ-FA>
+- Link Postprocessing: <https://www.racetechmag.com/2019/02/willem-toet-explains-cfd-post-processing/>  
+- Link Masterclass Aero: <https://www.youtube.com/watch?v=kixMMfEQ-FA>
 
 ### Siemens Starccm+ for Formula Student 
-  Link: <https://community.sw.siemens.com/s/topic/0TO4O000000MinlWAC/formula-student-fsae>  
-  Link: <https://www.youtube.com/watch?v=cJs6YjC1PWQ>  
-If your team is using Starccm+, ask Siemens to provide you the "best practice guide for vehicle aerodynamics" and the "best practice guide for Formula Student"
+- Link: <https://community.sw.siemens.com/s/topic/0TO4O000000MinlWAC/formula-student-fsae>  
+-  Link: <https://www.youtube.com/watch?v=cJs6YjC1PWQ>  
+- If your team is using Starccm+, ask Siemens to provide you the "best practice guide for vehicle aerodynamics" and the "best practice guide for Formula Student"
 
 --- 
 
