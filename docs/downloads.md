@@ -12,8 +12,8 @@
 
 ## Presentation FS Symposium 2024/2025
 ### CFD in the scope of race car development
-- **Slide deck (PDF)** — [View](downloads/FSSymposium2025/CFD in the Scope of Race Car Development 01_to_share.pdf) or [Download](downloads/FSSymposium2025/CFD in the Scope of Race Car Development 01_to_share.pdf)
-- **Slide deck (PPTX)** — [Download](downloads/FSSymposium2025/CFD in the Scope of Race Car Development 01_to_share.pptx)
+- **Slide deck (PDF)** — [View](downloads/FSSymposium2025/CFD in the Scope of Race Car Development 03 to share.pdf) or [Download](downloads/FSSymposium2025/CFD in the Scope of Race Car Development 03 to share.pdf)
+- **Slide deck (PPTX)** — [Download](downloads/FSSymposium2025/CFD in the Scope of Race Car Development 03 to share.pptx)
 
 ---
 
