@@ -1,29 +1,27 @@
 # Boundary Layer Meshing Setup Tool
-<figure>
-  <img src="images/boundary_layer_tool/splash.jpg" alt="BL schematic" width="800">
-</figure>
 
-*A lightweight tool to design boundary-layer (BL) meshes quickly and scientifically, before you spend time on full meshing runs.*
+*An interactive, browser-based tool to design boundary-layer (BL) meshes quickly and scientifically, before you spend time on full meshing runs.*
+
+---
+
+## Use the tool online
+
+**No installation required** — the tool runs entirely in your browser:
+
+**[:material-open-in-new: Launch the BL Meshing Setup Tool](https://jonaspangerl.github.io/BL_Meshing_Setup_Tool/){ .md-button .md-button--primary target="_blank" }**
+
+Want to explore the source code or contribute?  
+**[:material-github: View on GitHub](https://github.com/JonasPangerl/BL_Meshing_Setup_Tool){ .md-button target="_blank" }**
 
 ---
 
 ## What it is
-This **Python-based desktop app** helps you determine **optimal boundary-layer mesh parameters** in minutes.  
+This tool helps you determine **optimal boundary-layer mesh parameters** in minutes.  
 It visualizes and computes all relevant near-wall settings **in real time**, so you can pick robust values without waiting for a full meshing job.
-
-<figure>
-  <img src="images/boundary_layer_tool/gui-overview.jpg" alt="GUI Overview" width="800">
-  <figcaption>GUI overview</figcaption>
-</figure>
 
 - Works great alongside **OpenFOAM** and **STAR-CCM+** (and similar tools).
 - Focuses on **external freestream flows** with Reynolds numbers ~**10⁴–10⁷**.
 - Based on **turbulent flat-plate** theory for BL thickness and skin friction.
-
-Download the tool from the link in the [Downloads Page](downloads.md).
-
-> The tool is still in **beta**, so expect bugs. I would recomment to untick the **"auto update"** checkbox below the **"Generate Mesh"** button to increase stability.
-> A new and more stable version will be released soon.
 
 ---
 
@@ -60,9 +58,6 @@ The output parameters can be plugged into **STAR-CCM+**, **OpenFOAM**, **ANSYS**
 ---
 
 ## Parameters at a glance
-<figure>
-  <img src="images/boundary_layer_tool/mesh-parameters.jpg" alt="Mesh Parameters" width="800">
-</figure>
 
 | Parameter | Meaning / Use |
 |---|---|
@@ -86,18 +81,18 @@ The output parameters can be plugged into **STAR-CCM+**, **OpenFOAM**, **ANSYS**
 
 ---
 
-## Download & usage
+## Legacy desktop version (deprecated)
 
-Download the latest version from the [Downloads Page](downloads.md). 
+!!! warning "Deprecated"
+    The standalone Python desktop application is no longer actively maintained. Use the [browser-based version](https://jonaspangerl.github.io/BL_Meshing_Setup_Tool/) instead.
 
-**No installation required:** extract the ZIP and run the executable.  
-For details, see the integrated **Help** tab.
+The original Windows executable is still available on the [Downloads Page](downloads.md) if you need offline access.
 
 ---
 
 ## Compatibility
 - **CFD tools:** OpenFOAM, STAR-CCM+, ANSYS/Fluent, ANSA (parameter transfer by hand or scripts).
-- **OS:** Windows (tested). Python source can be adapted for other platforms.
+- **Browser:** Any modern browser (Chrome, Firefox, Edge, Safari) — no plugins or installation needed.
 
 ---
 
