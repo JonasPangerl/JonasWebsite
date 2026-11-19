@@ -4,6 +4,8 @@
 
 ---
 
+![Screenshot of the Boundary Layer Meshing Setup Tool](boundary_layer_tool/images/bl-tool-preview.webp)
+
 ## Use the tool online
 
 **No installation required** — the tool runs entirely in your browser:

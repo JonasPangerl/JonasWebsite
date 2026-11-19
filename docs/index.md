@@ -8,7 +8,7 @@
   </div>
 
   <figure>
-    <img src="index/images/FSS2024.jpeg" alt="Jonas" width="200">
+    <img src="index/images/portrait.jpg" alt="Jonas Pangerl" width="200">
   </figure>
 </div>
 
