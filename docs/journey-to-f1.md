@@ -9,17 +9,17 @@ This page summarizes how I moved from curiosity about aerodynamics to working in
   align-items:start;
 ">
   <figure style="margin:0; text-align:center;">
-    <img src="images/Rennstall.png" alt="Rennstall Esslingen" style="width:100%; height:auto;">
+    <img src="images/Rennstall.png" alt="Rennstall Esslingen" style="width:100%; aspect-ratio:2/1; object-fit:cover;">
     <figcaption style="margin-top:2px; font-size:0.9rem;">Rennstall Esslingen</figcaption>
   </figure>
 
   <figure style="margin:0; text-align:center;">
-    <img src="images/Williams.png" alt="Williams Racing" style="width:100%; height:auto;">
+    <img src="images/Williams.png" alt="Williams Racing" style="width:100%; aspect-ratio:2/1; object-fit:cover;">
     <figcaption style="margin-top:2px; font-size:0.9rem;">Williams Racing</figcaption>
   </figure>
 
   <figure style="margin:0; text-align:center;">
-    <img src="images/AudiF1.webp" alt="Audi Revolut F1 Team" style="width:100%; height:auto;">
+    <img src="images/AudiF1.webp" alt="Audi Revolut F1 Team" style="width:100%; aspect-ratio:2/1; object-fit:cover;">
     <figcaption style="margin-top:2px; font-size:0.9rem;">Audi Revolut F1 Team</figcaption>
   </figure>
 </div>
