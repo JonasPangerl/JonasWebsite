@@ -19,8 +19,8 @@ This page summarizes how I moved from curiosity about aerodynamics to working in
   </figure>
 
   <figure style="margin:0; text-align:center;">
-    <img src="images/Sauber.png" alt="Kick Sauber" style="width:100%; height:auto;">
-    <figcaption style="margin-top:2px; font-size:0.9rem;">Kick Sauber</figcaption>
+    <img src="images/AudiF1.webp" alt="Audi Revolut F1 Team" style="width:100%; height:auto;">
+    <figcaption style="margin-top:2px; font-size:0.9rem;">Audi Revolut F1 Team</figcaption>
   </figure>
 </div>
 
@@ -54,8 +54,8 @@ I wrote my **Master’s thesis** in the **CFD** group at Williams, focusing on *
 ## Williams, aero work
 After the thesis, I stayed at Williams in the **aerodynamics department**, as an aerodynamicist working on the floor. This deepened my understanding of development cycles, WT testing, correlation and robust workflow design.
 
-## Move to Switzerland, CFD correlation
-After three years at Williams I moved to **Sauber** (now AudiF1) in Switzerland and shifted my path towards **CFD**.
+## Move to Switzerland, Audi F1 Team, CFD correlation
+After three years at Williams I moved to Switzerland to join the team in Hinwil that is now the **Audi Revolut F1 Team**, and shifted my path towards **CFD**.
 I now work in the **CFD correlation team**, which fits my strengths from aero development and my thesis work.
 It is varied and challenging, and there is still a lot to learn from my colleagues and the people in the CFD methodology team.
 
